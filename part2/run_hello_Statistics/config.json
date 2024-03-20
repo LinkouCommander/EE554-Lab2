@@ -1,0 +1,19 @@
+{
+    "type": "Root",
+    "cxx_class": "gem5::Root",
+    "name": null,
+    "path": "root",
+    "eventq_index": 0,
+    "full_system": false,
+    "sim_quantum": 0,
+    "time_sync_enable": false,
+    "time_sync_period": 100000000000,
+    "time_sync_spin_threshold": 100000000,
+    "hello": {
+        "type": "HelloObject",
+        "cxx_class": "gem5::HelloObject",
+        "name": "hello",
+        "path": "hello",
+        "eventq_index": 0
+    }
+}
